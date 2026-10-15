@@ -1,0 +1,13 @@
+{
+  "name": "web-fetch-mcp",
+  "version": "1.0.0",
+  "description": "URL → 干净正文（agent 研究与信息采集）— Zhiwei Studio / 知微工作室",
+  "type": "module",
+  "main": "index.js",
+  "bin": { "web-fetch-mcp": "index.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.0"
+  },
+  "license": "MIT"
+}
